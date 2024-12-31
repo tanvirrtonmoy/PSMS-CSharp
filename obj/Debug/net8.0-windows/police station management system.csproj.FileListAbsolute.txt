@@ -1,0 +1,28 @@
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\police station management system.exe
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\police station management system.deps.json
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\police station management system.runtimeconfig.json
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\police station management system.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\police station management system.pdb
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police_station_management_system.Form1.resources
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police_station_management_system.Properties.Resources.resources
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.csproj.GenerateResource.cache
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.AssemblyInfoInputs.cache
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.AssemblyInfo.cs
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.csproj.CoreCompileInputs.cache
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.dll
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\refint\police station management system.dll
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.pdb
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.genruntimeconfig.cache
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\ref\police station management system.dll
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police_station_management_system.login.resources
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police_station_management_system.Dashbord.resources
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\Bunifu.Licensing.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\Bunifu.UI.WinForms.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\RestSharp.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\System.Management.dll
+C:\police station management system in c#\police station management system\police station management system\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Management.dll
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police station management system.csproj.AssemblyReference.cache
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police s.ACF42207.Up2Date
+C:\police station management system in c#\police station management system\police station management system\obj\Debug\net8.0-windows\police_station_management_system.cases.resources
